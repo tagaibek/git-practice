@@ -2,6 +2,8 @@
 * Adyl is learning how to use git in here.
 * Adyl is doing great job!
 
+### git basic flow
+![git-flow-image](UvZ0M.png)
 ### git main commands:
 * `git clone {remote_repo_url}` - clones remote project to your local
 * `git checkout {commit or branch}` - checks out branch or commit to your local directory
@@ -13,3 +15,4 @@
 * `git pull` - pulls changes from remote upstream branch if it is set
 * `git pull origin {remote branh name}` - pulls changes from the remote branch if upstream is not set
 * `git fetch` - gets all the changes from remote repo into local repo
+* `git merge {branch or commit name}` - merges changes from the given branch or commcoit name into current branch
